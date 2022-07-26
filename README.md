@@ -1,5 +1,8 @@
-## Bem-vindo(a) ao perfil do Dev em Dobro 😁
+## Bem-vindo(a) ao meu perfil. 😃
 
+ <p>Eu me chamo Itano Aurelio , Sou um estudando de programação. </p>
+ <p>🤖 <strong>#FOCO_DEV_FULLSTACK 🤖</strong></p>
+ 
  <div>
    <a href="https://github.com/itano-aurelio">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=itano-aurelio&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
