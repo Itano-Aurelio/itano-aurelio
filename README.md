@@ -1,7 +1,7 @@
 ## Bem-vindo(a) ao meu perfil. 😃
 
  <p>Eu me chamo Itano Aurelio , Sou um estudando de programação. </p>
- <p>🤖 <strong>#FOCO_DEV_FULLSTACK 🤖</strong></p>
+ <p>🤖 <strong>#FOCO_DEV_FRONTEND 🤖</strong></p>
  
  <div>
    <a href="https://github.com/itano-aurelio">
