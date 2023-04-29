@@ -1,6 +1,6 @@
 ## Bem-vindo(a) ao meu perfil. 😃
 
- <p>Eu me chamo Itano Aurelio , Sou um estudando de programação. </p>
+ <p>Eu me chamo Itano Aurelio , Sou um estudante de programação. </p>
  
  <div>
    <a href="https://github.com/itano-aurelio">
