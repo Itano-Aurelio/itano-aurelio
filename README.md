@@ -56,7 +56,4 @@
 
 <p align="left">Meu nome é Itano Aurélio, tenho 23 anos e sou formado em Análise e Desenvolvimento de Sistemas. Sou apaixonado por tecnologia e programação, sempre buscando estudar e descobrir coisas novas. Acredito que o aprendizado contínuo é essencial para acompanhar as inovações e desafios do mundo digital.</p>
 
-###
-
 <br clear="both">
-###
