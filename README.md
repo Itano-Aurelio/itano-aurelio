@@ -6,7 +6,7 @@
 
 ### 👨‍💻 Sobre mim
 
-Meu nome é **Itano Aurélio**, tenho **24 anos** e sou natural de **Araguari-MG, Brasil**. Sou formado em **Análise e Desenvolvimento de Sistemas** e, desde que comecei a programar, me apaixonei pela infinidade de possibilidades que a tecnologia oferece. Acredito que o aprendizado contínuo é a chave para me manter atualizado em um mundo digital que está em constante evolução. Estou sempre em busca de projetos desafiadores, que me permitam crescer como desenvolvedor e explorar novas tecnologias.
+Meu nome é **Itano Aurélio**, tenho **24 anos** e sou natural de **Araguari-MG, Brasil**. Sou formado em **Análise e Desenvolvimento de Sistemas** e atualmente estou cursando **Pós-graduação em Desenvolvimento Full Stack** pela **Faculdade Anhanguera**. Desde que comecei a programar, me apaixonei pela infinidade de possibilidades que a tecnologia oferece. Acredito que o aprendizado contínuo é a chave para me manter atualizado em um mundo digital que está em constante evolução. Estou sempre em busca de projetos desafiadores, que me permitam crescer como desenvolvedor e explorar novas tecnologias.
 
 Atualmente, estou me aprofundando no desenvolvimento front-end e aprendendo sobre **React**, **TypeScript** e **APIs**. No futuro, gostaria de expandir meu conhecimento também para o back-end e explorar **Node.js** e **Banco de Dados**.
 
@@ -49,7 +49,6 @@ Conecte-se comigo! Eu adoraria trocar ideias sobre tecnologia, programação e m
 Confira alguns dos meus projetos no GitHub:
 
 - [**Calculadora Orientada a Objetos**](https://github.com/Itano-Aurelio/calculadora-poo): Uma calculadora simples construída utilizando HTML, CSS e JavaScript, com foco na Programação Orientada a Objetos.
-- [**Meu Portfólio**](https://github.com/Itano-Aurelio/portfolio): Meu portfólio pessoal, onde compartilho projetos, habilidades e conquistas.
 
 ---
 
@@ -68,7 +67,6 @@ Além de programação, sou apaixonado por:
 
 - **Tecnologia em geral**: Acompanhando as últimas tendências e inovações.
 - **Jogos**: Sempre que posso, gosto de jogar e entender os aspectos técnicos de desenvolvimento de games.
-- **Música**: Toco violão e sempre estou em busca de novas inspirações musicais.
 
 ---
 
